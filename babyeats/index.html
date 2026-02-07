@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baby Eats — One Safe Food, Every Day</title>
+  <meta name="description" content="A deliberately simple baby feeding app. One daily food recommendation for infants aged 4-18 months. Evidence-based, zero tracking.">
+  <meta property="og:title" content="Baby Eats — One Safe Food, Every Day">
+  <meta property="og:description" content="One daily food recommendation for your baby. Age-appropriate, evidence-based, and completely private.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://gfamlabs.com/babyeats">
+  <style>
+    :root {
+      --bg: #E5E2DC;
+      --card: #FFFFFF;
+      --text: #2E3230;
+      --text-secondary: #5C635E;
+      --text-tertiary: #8A908C;
+      --sage: #7D9A84;
+      --sand: #C4B59B;
+      --hairline: #D4D1CB;
+      --radius: 16px;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .container {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 80px 24px;
+    }
+
+    /* Hero */
+    .hero {
+      text-align: center;
+      margin-bottom: 56px;
+    }
+
+    .hero-icon {
+      font-size: 56px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .hero h1 {
+      font-size: 2.4rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      margin-bottom: 12px;
+      color: var(--text);
+    }
+
+    .hero .tagline {
+      font-size: 1.15rem;
+      color: var(--text-secondary);
+      max-width: 420px;
+      margin: 0 auto;
+    }
+
+    /* Feature Chips */
+    .methods {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-bottom: 48px;
+    }
+
+    .method-chip {
+      font-family: -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      font-size: 0.82rem;
+      font-weight: 500;
+      padding: 6px 14px;
+      background: var(--card);
+      border: 1px solid var(--hairline);
+      border-radius: 20px;
+      color: var(--text-secondary);
+    }
+
+    /* Features */
+    .features {
+      display: grid;
+      gap: 16px;
+      margin-bottom: 48px;
+    }
+
+    .feature {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 20px;
+      background: var(--card);
+      border-radius: var(--radius);
+      border: 1px solid var(--hairline);
+    }
+
+    .feature-icon {
+      font-size: 1.4rem;
+      flex-shrink: 0;
+      width: 36px;
+      text-align: center;
+    }
+
+    .feature h3 {
+      font-family: -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      font-size: 0.95rem;
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+
+    .feature p {
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+
+    /* CTA */
+    .cta {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .cta-badge {
+      display: inline-block;
+      margin-bottom: 12px;
+    }
+
+    .cta-badge img {
+      height: 54px;
+    }
+
+    .cta-note {
+      font-family: -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      font-size: 0.82rem;
+      color: var(--text-tertiary);
+    }
+
+    /* Divider */
+    .divider {
+      height: 1px;
+      background: var(--hairline);
+      margin: 48px 0;
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      font-family: -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      font-size: 0.82rem;
+      color: var(--text-tertiary);
+    }
+
+    footer a {
+      color: var(--text-secondary);
+      text-decoration: none;
+    }
+
+    footer a:hover { text-decoration: underline; }
+
+    .footer-links {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      margin-bottom: 12px;
+    }
+
+    @media (max-width: 480px) {
+      .container { padding: 48px 20px; }
+      .hero h1 { font-size: 1.8rem; }
+      .hero-icon { font-size: 44px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="hero">
+      <span class="hero-icon">&#x1F33F;</span>
+      <h1>Baby Eats</h1>
+      <p class="tagline">One safe food, every day. Simple, evidence-based food recommendations for your baby.</p>
+    </div>
+
+    <div class="methods">
+      <span class="method-chip">&#x1F476; Ages 4-18 Months</span>
+      <span class="method-chip">&#x1F37D;&#xFE0F; Baby-Led Weaning</span>
+      <span class="method-chip">&#x1F963; Pur&eacute;e</span>
+      <span class="method-chip">&#x1F942; Mixed Approach</span>
+      <span class="method-chip">&#x26A0;&#xFE0F; Allergen Filtering</span>
+    </div>
+
+    <div class="features">
+      <div class="feature">
+        <span class="feature-icon">&#x1F4C5;</span>
+        <div>
+          <h3>One Food Per Day</h3>
+          <p>No overwhelm. Each day you get a single, age-appropriate food recommendation with detailed preparation instructions and safety notes.</p>
+        </div>
+      </div>
+      <div class="feature">
+        <span class="feature-icon">&#x1F6E1;&#xFE0F;</span>
+        <div>
+          <h3>Allergen-Aware</h3>
+          <p>Exclude any of the top 9 allergens. Baby Eats filters recommendations to match your baby's needs and your pediatrician's guidance.</p>
+        </div>
+      </div>
+      <div class="feature">
+        <span class="feature-icon">&#x1F4DA;</span>
+        <div>
+          <h3>Evidence-Based</h3>
+          <p>Every recommendation is grounded in guidelines from the AAP, CDC, NHS, and WHO. Real science, not internet opinion.</p>
+        </div>
+      </div>
+      <div class="feature">
+        <span class="feature-icon">&#x1F512;</span>
+        <div>
+          <h3>Completely Private</h3>
+          <p>Zero data collection. No accounts, no tracking, no analytics. Your baby's information stays on your device and nowhere else.</p>
+        </div>
+      </div>
+      <div class="feature">
+        <span class="feature-icon">&#x2B50;</span>
+        <div>
+          <h3>Premium: This Week + Quick Lookup</h3>
+          <p>Unlock "This Week" for 7 days of recommendations at a glance, plus Quick Lookup to search all 150+ foods instantly. One-time purchase, $4.99.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="cta">
+      <!-- Replace with actual App Store link once live -->
+      <p class="cta-note">Coming soon to the App Store.</p>
+    </div>
+
+    <div class="divider"></div>
+
+    <footer>
+      <div class="footer-links">
+        <a href="/babyeats/privacy">Privacy Policy</a>
+        <a href="/babyeats/terms">Terms of Use</a>
+        <a href="mailto:support@gfamlabs.com">Support</a>
+      </div>
+      <p>&copy; 2026 GFAM Labs. All rights reserved.</p>
+      <p style="margin-top: 8px;"><a href="/">&larr; GFAM Labs</a></p>
+    </footer>
+  </div>
+</body>
+</html>
