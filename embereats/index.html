@@ -96,6 +96,27 @@
       box-shadow: 0 12px 40px rgba(0,0,0,0.1);
     }
 
+    /* Screenshot Gallery */
+    .gallery {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scroll-snap-type: x mandatory;
+      display: flex;
+      gap: 16px;
+      padding: 0 24px 16px;
+      margin: 0 -24px 48px;
+    }
+
+    .gallery::-webkit-scrollbar { display: none; }
+
+    .gallery img {
+      flex-shrink: 0;
+      width: 200px;
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+      scroll-snap-align: center;
+    }
+
     /* Methods */
     .methods {
       display: flex;
@@ -209,7 +230,7 @@
       .container { padding: 48px 20px; }
       .hero h1 { font-size: 1.8rem; }
       .hero-icon { font-size: 44px; }
-      .hero .screenshot { max-width: 200px; }
+      .gallery img { width: 160px; }
     }
   </style>
 </head>
@@ -222,8 +243,14 @@
       <a class="badge-link" href="https://apps.apple.com/app/embereats-camp-recipes/id6758902260">
         <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store">
       </a>
-      <br>
-      <img class="screenshot" src="screenshot.png" alt="Ember Eats app showing camping recipes organized by cooking method">
+    </div>
+
+    <div class="gallery">
+      <img src="screenshot.png" alt="Explore camping recipes">
+      <img src="screenshot_recipe.png" alt="Recipe detail view">
+      <img src="screenshot_methods.png" alt="Browse by cooking method">
+      <img src="screenshot_trip.png" alt="Trip planner">
+      <img src="screenshot_offline.png" alt="Works offline">
     </div>
 
     <div class="methods">
