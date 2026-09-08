@@ -1,0 +1,18 @@
+"/Users/stevegallo/Repos/EmberEats/EmberEats/RecipeDetailView.swift":
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.o"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.d"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.swiftconstvalues"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.swiftdeps"
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.dia"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/PacksView.swift":
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.d"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.swiftdeps"
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.dia"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.o"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.swiftconstvalues"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/PaywallView.swift":
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.o"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.swiftdeps"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.d"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.swiftconstvalues"
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.dia"

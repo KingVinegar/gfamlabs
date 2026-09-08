@@ -1,0 +1,463 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 63;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		212F7E80634A2F27DC0A51BB /* StoreKitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B229C9ADACBC992FC62AEB61 /* StoreKitManager.swift */; };
+		23DBF8515E4AB2C65CD136C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8359AC9573620D8F1B5AB4D0 /* Assets.xcassets */; };
+		2624DC0F3F26A0FBE081EBAD /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 1E1097357E203613C5C42731 /* PrivacyInfo.xcprivacy */; };
+		33499699AD838C3408EAB474 /* TripListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 166DD4EADACCBC15E0E930E8 /* TripListView.swift */; };
+		3BC44C2B3803460B5FC81B56 /* PaywallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED860FB481B258AFC6F119D /* PaywallView.swift */; };
+		4228461992BCF7FEE448FE46 /* FoilPacketRecipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = C527C0DEED390E56ADBCED3D /* FoilPacketRecipes.swift */; };
+		43162AF06E8815BF1DB5F5D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5D871E8C32BF8ADF8C1972 /* ContentView.swift */; };
+		477E72E02F4F867A004E5F16 /* ReviewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477E72DF2F4F867A004E5F16 /* ReviewManager.swift */; };
+		4781804EA4B2E1B0E1EBF4CD /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A945867741E261BC9EEE28A4 /* ExploreView.swift */; };
+		5085678CF147AD18E8E35002 /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4644F8FE44D9E6F164E810B /* RecipeListView.swift */; };
+		596B1F0A2B3DD8E6E721938E /* ShoppingListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 201C16202E5B667EEE0FEEE7 /* ShoppingListView.swift */; };
+		5A74B100B8FD3D8062823D86 /* NoCookRecipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 456FBFD86BBAFC28DBB44E5F /* NoCookRecipes.swift */; };
+		5BF6A3B3A44F2A590C74A31E /* DutchOvenRecipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC27DA0B305D869C1DEB75E /* DutchOvenRecipes.swift */; };
+		5CE489A40AA66F6922800E22 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1C6E2DD5D0F9D6971962D9BD /* OFL.txt */; };
+		5D51EEA29D9485E7957C578E /* PacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A398C5D8E75489C2445627E /* PacksView.swift */; };
+		6BF08BA799611812A36FCF10 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600599340A78C4C921F82399 /* Theme.swift */; };
+		6C579A7D870F56238E322073 /* TripListManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5168766513F038A4F7E9E5E /* TripListManager.swift */; };
+		77E00CAD40350CB5AFBB3A2B /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D71AD4F11A912C7D8C1FFEB3 /* FavoritesView.swift */; };
+		7D80F76E49196F78D0B5F34D /* RecipeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73E9C802310934C1DBF4F31 /* RecipeData.swift */; };
+		A93127FED3389A6A4832971F /* CampfireRecipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAC8AF414718224F2DBCB7F /* CampfireRecipes.swift */; };
+		AF5EB3E0AEB1D90B5F4DE19D /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B23BAD43407A9656E7F481 /* Models.swift */; };
+		B3D466ED2CB2E03D67540D7D /* EmberEatsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18178FAF16A7D634D1E11707 /* EmberEatsApp.swift */; };
+		BE8C056B143672E87D423487 /* Caveat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1D62D99580A41B7702519F07 /* Caveat-Medium.ttf */; };
+		CCEB48B35242C1CEE10C95FE /* Caveat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6EC3A1D56561C6550020C31A /* Caveat-Regular.ttf */; };
+		D60ACA692897DDF9D3A73873 /* Caveat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C827962EDCC17038A1D8E83D /* Caveat-Bold.ttf */; };
+		DAAD8A16873444C03A423F28 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 396B5D54A58665465FC57AB0 /* RecipeDetailView.swift */; };
+		DD4497689D43C268A2BC0A15 /* ShoppingListManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEA8EF65D8F7899A578973A3 /* ShoppingListManager.swift */; };
+		DD98BAD9DDC15332A27A0824 /* FavoritesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1717CCFFFF9B1C502148D4 /* FavoritesManager.swift */; };
+		E0B889242779B60D0815F5C3 /* PremiumManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54B6D9FBF8EF18E019FF5E4 /* PremiumManager.swift */; };
+		EBD0C7035F986E55776090A4 /* CampStoveRecipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 317DA8A494E95B73C9391078 /* CampStoveRecipes.swift */; };
+		EE15732DF61A1501F6B612E7 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ACA35547B71A492CAA1FF9A /* SettingsView.swift */; };
+		F1EE414A6BB0315590CFDD78 /* Caveat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05019E05B04A0588B42438E4 /* Caveat-SemiBold.ttf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		05019E05B04A0588B42438E4 /* Caveat-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Caveat-SemiBold.ttf"; sourceTree = "<group>"; };
+		166DD4EADACCBC15E0E930E8 /* TripListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripListView.swift; sourceTree = "<group>"; };
+		18178FAF16A7D634D1E11707 /* EmberEatsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmberEatsApp.swift; sourceTree = "<group>"; };
+		1C6E2DD5D0F9D6971962D9BD /* OFL.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		1D62D99580A41B7702519F07 /* Caveat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Caveat-Medium.ttf"; sourceTree = "<group>"; };
+		1E1097357E203613C5C42731 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		201C16202E5B667EEE0FEEE7 /* ShoppingListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListView.swift; sourceTree = "<group>"; };
+		317DA8A494E95B73C9391078 /* CampStoveRecipes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampStoveRecipes.swift; sourceTree = "<group>"; };
+		396B5D54A58665465FC57AB0 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
+		3ED860FB481B258AFC6F119D /* PaywallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaywallView.swift; sourceTree = "<group>"; };
+		3F5D871E8C32BF8ADF8C1972 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		456FBFD86BBAFC28DBB44E5F /* NoCookRecipes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoCookRecipes.swift; sourceTree = "<group>"; };
+		477E72DE2F4F7A4D004E5F16 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; name = Configuration.storekit; path = EmberEats/Configuration.storekit; sourceTree = "<group>"; };
+		477E72DF2F4F867A004E5F16 /* ReviewManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewManager.swift; sourceTree = "<group>"; };
+		4ACA35547B71A492CAA1FF9A /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		600599340A78C4C921F82399 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		6EC3A1D56561C6550020C31A /* Caveat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Caveat-Regular.ttf"; sourceTree = "<group>"; };
+		7A398C5D8E75489C2445627E /* PacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PacksView.swift; sourceTree = "<group>"; };
+		8359AC9573620D8F1B5AB4D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8E1717CCFFFF9B1C502148D4 /* FavoritesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesManager.swift; sourceTree = "<group>"; };
+		A5168766513F038A4F7E9E5E /* TripListManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripListManager.swift; sourceTree = "<group>"; };
+		A945867741E261BC9EEE28A4 /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
+		B229C9ADACBC992FC62AEB61 /* StoreKitManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreKitManager.swift; sourceTree = "<group>"; };
+		B4644F8FE44D9E6F164E810B /* RecipeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListView.swift; sourceTree = "<group>"; };
+		B5B23BAD43407A9656E7F481 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		BEA8EF65D8F7899A578973A3 /* ShoppingListManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListManager.swift; sourceTree = "<group>"; };
+		C527C0DEED390E56ADBCED3D /* FoilPacketRecipes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoilPacketRecipes.swift; sourceTree = "<group>"; };
+		C54B6D9FBF8EF18E019FF5E4 /* PremiumManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumManager.swift; sourceTree = "<group>"; };
+		C73E9C802310934C1DBF4F31 /* RecipeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeData.swift; sourceTree = "<group>"; };
+		C827962EDCC17038A1D8E83D /* Caveat-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Caveat-Bold.ttf"; sourceTree = "<group>"; };
+		CEAC8AF414718224F2DBCB7F /* CampfireRecipes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampfireRecipes.swift; sourceTree = "<group>"; };
+		D71AD4F11A912C7D8C1FFEB3 /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		E361EF8EC86FBA768FC664E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		EDACFE5F98F6D7334C8A8EEF /* EmberEats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmberEats.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDC27DA0B305D869C1DEB75E /* DutchOvenRecipes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DutchOvenRecipes.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1922A718B3FB49A0F93D7569 /* EmberEats */ = {
+			isa = PBXGroup;
+			children = (
+				477E72DF2F4F867A004E5F16 /* ReviewManager.swift */,
+				8359AC9573620D8F1B5AB4D0 /* Assets.xcassets */,
+				CEAC8AF414718224F2DBCB7F /* CampfireRecipes.swift */,
+				317DA8A494E95B73C9391078 /* CampStoveRecipes.swift */,
+				3F5D871E8C32BF8ADF8C1972 /* ContentView.swift */,
+				FDC27DA0B305D869C1DEB75E /* DutchOvenRecipes.swift */,
+				18178FAF16A7D634D1E11707 /* EmberEatsApp.swift */,
+				A945867741E261BC9EEE28A4 /* ExploreView.swift */,
+				8E1717CCFFFF9B1C502148D4 /* FavoritesManager.swift */,
+				D71AD4F11A912C7D8C1FFEB3 /* FavoritesView.swift */,
+				C527C0DEED390E56ADBCED3D /* FoilPacketRecipes.swift */,
+				E361EF8EC86FBA768FC664E6 /* Info.plist */,
+				B5B23BAD43407A9656E7F481 /* Models.swift */,
+				456FBFD86BBAFC28DBB44E5F /* NoCookRecipes.swift */,
+				7A398C5D8E75489C2445627E /* PacksView.swift */,
+				3ED860FB481B258AFC6F119D /* PaywallView.swift */,
+				C54B6D9FBF8EF18E019FF5E4 /* PremiumManager.swift */,
+				1E1097357E203613C5C42731 /* PrivacyInfo.xcprivacy */,
+				C73E9C802310934C1DBF4F31 /* RecipeData.swift */,
+				396B5D54A58665465FC57AB0 /* RecipeDetailView.swift */,
+				B4644F8FE44D9E6F164E810B /* RecipeListView.swift */,
+				4ACA35547B71A492CAA1FF9A /* SettingsView.swift */,
+				BEA8EF65D8F7899A578973A3 /* ShoppingListManager.swift */,
+				201C16202E5B667EEE0FEEE7 /* ShoppingListView.swift */,
+				B229C9ADACBC992FC62AEB61 /* StoreKitManager.swift */,
+				600599340A78C4C921F82399 /* Theme.swift */,
+				A5168766513F038A4F7E9E5E /* TripListManager.swift */,
+				166DD4EADACCBC15E0E930E8 /* TripListView.swift */,
+				9D56EECDC21CE5BE0BEE6CEF /* Fonts */,
+				9FDAE9685562F3DADE2AF08B /* Preview Content */,
+			);
+			path = EmberEats;
+			sourceTree = "<group>";
+		};
+		82A7124F4C2B56A01C180B93 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EDACFE5F98F6D7334C8A8EEF /* EmberEats.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9D56EECDC21CE5BE0BEE6CEF /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				C827962EDCC17038A1D8E83D /* Caveat-Bold.ttf */,
+				1D62D99580A41B7702519F07 /* Caveat-Medium.ttf */,
+				6EC3A1D56561C6550020C31A /* Caveat-Regular.ttf */,
+				05019E05B04A0588B42438E4 /* Caveat-SemiBold.ttf */,
+				1C6E2DD5D0F9D6971962D9BD /* OFL.txt */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		9FDAE9685562F3DADE2AF08B /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		DF0867E6EA4428B0F4ECD715 = {
+			isa = PBXGroup;
+			children = (
+				477E72DE2F4F7A4D004E5F16 /* Configuration.storekit */,
+				1922A718B3FB49A0F93D7569 /* EmberEats */,
+				82A7124F4C2B56A01C180B93 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B9A85762835C3C3D010289F6 /* EmberEats */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3E65634692EE0FFC3A763FDE /* Build configuration list for PBXNativeTarget "EmberEats" */;
+			buildPhases = (
+				8ADD7A3EBB661D59D6362F2B /* Sources */,
+				ED58577BFCB1A3D0338AFA2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EmberEats;
+			packageProductDependencies = (
+			);
+			productName = EmberEats;
+			productReference = EDACFE5F98F6D7334C8A8EEF /* EmberEats.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		030E2E1FC164A8CF9953B38C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					B9A85762835C3C3D010289F6 = {
+						DevelopmentTeam = 7XS3QMA32B;
+					};
+				};
+			};
+			buildConfigurationList = 3C0B525AA752C9E3E8D48CA5 /* Build configuration list for PBXProject "EmberEats" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = DF0867E6EA4428B0F4ECD715;
+			minimizedProjectReferenceProxies = 1;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B9A85762835C3C3D010289F6 /* EmberEats */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ED58577BFCB1A3D0338AFA2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23DBF8515E4AB2C65CD136C7 /* Assets.xcassets in Resources */,
+				D60ACA692897DDF9D3A73873 /* Caveat-Bold.ttf in Resources */,
+				BE8C056B143672E87D423487 /* Caveat-Medium.ttf in Resources */,
+				CCEB48B35242C1CEE10C95FE /* Caveat-Regular.ttf in Resources */,
+				F1EE414A6BB0315590CFDD78 /* Caveat-SemiBold.ttf in Resources */,
+				5CE489A40AA66F6922800E22 /* OFL.txt in Resources */,
+				2624DC0F3F26A0FBE081EBAD /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8ADD7A3EBB661D59D6362F2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EBD0C7035F986E55776090A4 /* CampStoveRecipes.swift in Sources */,
+				477E72E02F4F867A004E5F16 /* ReviewManager.swift in Sources */,
+				A93127FED3389A6A4832971F /* CampfireRecipes.swift in Sources */,
+				43162AF06E8815BF1DB5F5D6 /* ContentView.swift in Sources */,
+				5BF6A3B3A44F2A590C74A31E /* DutchOvenRecipes.swift in Sources */,
+				B3D466ED2CB2E03D67540D7D /* EmberEatsApp.swift in Sources */,
+				4781804EA4B2E1B0E1EBF4CD /* ExploreView.swift in Sources */,
+				DD98BAD9DDC15332A27A0824 /* FavoritesManager.swift in Sources */,
+				77E00CAD40350CB5AFBB3A2B /* FavoritesView.swift in Sources */,
+				4228461992BCF7FEE448FE46 /* FoilPacketRecipes.swift in Sources */,
+				AF5EB3E0AEB1D90B5F4DE19D /* Models.swift in Sources */,
+				5A74B100B8FD3D8062823D86 /* NoCookRecipes.swift in Sources */,
+				5D51EEA29D9485E7957C578E /* PacksView.swift in Sources */,
+				3BC44C2B3803460B5FC81B56 /* PaywallView.swift in Sources */,
+				E0B889242779B60D0815F5C3 /* PremiumManager.swift in Sources */,
+				7D80F76E49196F78D0B5F34D /* RecipeData.swift in Sources */,
+				DAAD8A16873444C03A423F28 /* RecipeDetailView.swift in Sources */,
+				5085678CF147AD18E8E35002 /* RecipeListView.swift in Sources */,
+				EE15732DF61A1501F6B612E7 /* SettingsView.swift in Sources */,
+				DD4497689D43C268A2BC0A15 /* ShoppingListManager.swift in Sources */,
+				596B1F0A2B3DD8E6E721938E /* ShoppingListView.swift in Sources */,
+				212F7E80634A2F27DC0A51BB /* StoreKitManager.swift in Sources */,
+				6BF08BA799611812A36FCF10 /* Theme.swift in Sources */,
+				6C579A7D870F56238E322073 /* TripListManager.swift in Sources */,
+				33499699AD838C3408EAB474 /* TripListView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0146062D46F96BADFF612C7C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 7;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 7XS3QMA32B;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = EmberEats;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Debug;
+		};
+		4E85D736AD93F36876645D79 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EmberEats/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.gfamlabs.EmberEats;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		677584151C9528529D836478 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EmberEats/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.gfamlabs.EmberEats;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		A8CA3CB55B44451CE96D548C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 7;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 7XS3QMA32B;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = EmberEats;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3C0B525AA752C9E3E8D48CA5 /* Build configuration list for PBXProject "EmberEats" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0146062D46F96BADFF612C7C /* Debug */,
+				A8CA3CB55B44451CE96D548C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		3E65634692EE0FFC3A763FDE /* Build configuration list for PBXNativeTarget "EmberEats" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				677584151C9528529D836478 /* Debug */,
+				4E85D736AD93F36876645D79 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 030E2E1FC164A8CF9953B38C /* Project object */;
+}

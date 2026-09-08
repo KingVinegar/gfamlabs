@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3D3830"/>
+      <stop offset="100%" stop-color="#2A2520"/>
+    </linearGradient>
+    <linearGradient id="flame-outer" x1="0.5" y1="1" x2="0.5" y2="0">
+      <stop offset="0%" stop-color="#C47A3F"/>
+      <stop offset="60%" stop-color="#D4943F"/>
+      <stop offset="100%" stop-color="#E8B84A"/>
+    </linearGradient>
+    <linearGradient id="flame-inner" x1="0.5" y1="1" x2="0.5" y2="0">
+      <stop offset="0%" stop-color="#D4943F"/>
+      <stop offset="100%" stop-color="#F0D06A"/>
+    </linearGradient>
+    <linearGradient id="ember-glow" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#C47A3F" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#C47A3F" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+
+  <!-- Subtle ember glow behind flame -->
+  <ellipse cx="512" cy="480" rx="200" ry="260" fill="url(#ember-glow)"/>
+
+  <!-- Logs -->
+  <!-- Left log -->
+  <line x1="340" y1="680" x2="560" y2="720" stroke="#6B5B4A" stroke-width="36" stroke-linecap="round"/>
+  <!-- Right log -->
+  <line x1="464" y1="720" x2="684" y2="680" stroke="#5E503F" stroke-width="36" stroke-linecap="round"/>
+
+  <!-- Main flame (outer) -->
+  <path d="
+    M 512 280
+    C 512 280, 580 360, 600 420
+    C 620 480, 630 530, 620 570
+    C 610 610, 590 640, 570 660
+    C 550 680, 530 690, 512 690
+    C 494 690, 474 680, 454 660
+    C 434 640, 414 610, 404 570
+    C 394 530, 404 480, 424 420
+    C 444 360, 512 280, 512 280
+    Z
+  " fill="url(#flame-outer)" opacity="0.95"/>
+
+  <!-- Left flicker -->
+  <path d="
+    M 470 380
+    C 450 340, 430 360, 420 420
+    C 410 480, 420 540, 440 580
+    C 450 600, 460 590, 460 570
+    C 460 540, 440 480, 450 430
+    C 455 400, 470 380, 470 380
+    Z
+  " fill="#D4943F" opacity="0.6"/>
+
+  <!-- Right flicker -->
+  <path d="
+    M 554 370
+    C 574 330, 594 350, 600 400
+    C 610 460, 600 520, 580 560
+    C 570 580, 560 570, 562 550
+    C 565 520, 580 470, 575 420
+    C 570 390, 554 370, 554 370
+    Z
+  " fill="#D4943F" opacity="0.5"/>
+
+  <!-- Inner flame (bright core) -->
+  <path d="
+    M 512 400
+    C 512 400, 555 450, 560 490
+    C 565 530, 555 570, 545 600
+    C 535 620, 525 640, 512 645
+    C 499 640, 489 620, 479 600
+    C 469 570, 459 530, 464 490
+    C 469 450, 512 400, 512 400
+    Z
+  " fill="url(#flame-inner)" opacity="0.85"/>
+
+  <!-- Innermost bright spot -->
+  <ellipse cx="512" cy="560" rx="28" ry="50" fill="#F5E08A" opacity="0.5"/>
+
+  <!-- Embers / sparks -->
+  <circle cx="480" cy="340" r="3" fill="#E8B84A" opacity="0.7"/>
+  <circle cx="540" cy="310" r="2.5" fill="#E8B84A" opacity="0.6"/>
+  <circle cx="500" cy="290" r="2" fill="#F0D06A" opacity="0.5"/>
+  <circle cx="530" cy="330" r="2" fill="#E8B84A" opacity="0.5"/>
+
+  <!-- App name text -->
+  <text x="512" y="820" text-anchor="middle" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#E8DCC8" letter-spacing="6">EMBER EATS</text>
+</svg>

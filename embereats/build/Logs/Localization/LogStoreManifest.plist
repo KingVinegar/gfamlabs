@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:build/Logs/Localization/LogStoreManifest.plist
+=======
+>>>>>>> Stashed changes
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict/>
+<<<<<<< Updated upstream
+========
+	<key>com.apple.security.get-task-allow</key>
+	<true/>
+>>>>>>>> Stashed changes:build/Build/Intermediates.noindex/XCBuildData/8c21c66c691b817cd8764ad1d41c604e.xcbuilddata/attachments/f86cbb10517a3bd51f252887359b04af
+=======
+>>>>>>> Stashed changes
+</dict>
+</plist>

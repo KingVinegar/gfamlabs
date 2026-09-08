@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EmberEats — Camping Recipes & Trip Planner</title>
+    <meta name="description" content="150+ curated camping recipes organized by cooking method. Campfire, camp stove, Dutch oven, foil packets, no-cook. Works offline. Free on the App Store.">
+    <meta name="keywords" content="camping recipe app, campfire recipes, camp cooking, offline recipe app, dutch oven recipes, foil packet recipes, camping meal planner, camp stove recipes">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="EmberEats — Camping Recipes & Trip Planner">
+    <meta property="og:description" content="150+ curated camping recipes organized by cooking method. Works offline. Like borrowing Grandad's camp cookbook.">
+    <meta property="og:image" content="screenshot.png">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://gfamlabs.com/embereats">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="EmberEats — Camping Recipes & Trip Planner">
+    <meta name="twitter:description" content="150+ curated camping recipes organized by cooking method. Works offline.">
+    <meta name="twitter:image" content="screenshot.png">
+
+    <style>
+        :root {
+            --bg: #F7F3EB;
+            --card: #FFFFFF;
+            --raised: #EEEAE2;
+            --text-primary: #33302A;
+            --text-secondary: #6B6355;
+            --text-tertiary: #9A9184;
+            --ember: #C47A3F;
+            --pine: #5E7A56;
+            --hairline: #E2DDD2;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* Hero */
+        .hero {
+            text-align: center;
+            padding: 64px 24px 48px;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            margin-bottom: 8px;
+        }
+
+        .hero h1 span {
+            color: var(--ember);
+        }
+
+        .hero .subtitle {
+            font-size: 1.15rem;
+            color: var(--text-secondary);
+            margin-bottom: 32px;
+            max-width: 480px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .hero .badge-link {
+            display: inline-block;
+            margin-bottom: 40px;
+        }
+
+        .hero .badge-link img {
+            height: 54px;
+        }
+
+        .hero .screenshot {
+            max-width: 280px;
+            width: 100%;
+            border-radius: 24px;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.1);
+        }
+
+        /* Cooking Methods */
+        .methods {
+            text-align: center;
+            padding: 48px 24px;
+        }
+
+        .methods h2 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 20px;
+        }
+
+        .chips {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .chip {
+            background: var(--card);
+            border: 1.5px solid var(--hairline);
+            border-radius: 12px;
+            padding: 8px 18px;
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: var(--text-primary);
+            white-space: nowrap;
+        }
+
+        /* Features */
+        .features {
+            padding: 48px 24px;
+        }
+
+        .features h2 {
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 32px;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            max-width: 720px;
+            margin: 0 auto;
+        }
+
+        .feature-card {
+            background: var(--card);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.03);
+        }
+
+        .feature-card .icon {
+            font-size: 1.5rem;
+            margin-bottom: 8px;
+        }
+
+        .feature-card h3 {
+            font-size: 1.05rem;
+            font-weight: 600;
+            margin-bottom: 6px;
+        }
+
+        .feature-card p {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        /* CTA */
+        .cta {
+            text-align: center;
+            padding: 56px 24px;
+        }
+
+        .cta h2 {
+            font-size: 1.6rem;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+
+        .cta p {
+            color: var(--text-secondary);
+            margin-bottom: 28px;
+            font-size: 1.05rem;
+        }
+
+        .cta .badge-link img {
+            height: 54px;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 32px 24px;
+            border-top: 1px solid var(--hairline);
+            color: var(--text-tertiary);
+            font-size: 0.85rem;
+        }
+
+        footer a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            margin: 0 12px;
+        }
+
+        footer a:hover {
+            color: var(--ember);
+        }
+
+        footer .copyright {
+            margin-top: 12px;
+        }
+
+        /* Responsive */
+        @media (max-width: 480px) {
+            .hero h1 { font-size: 2rem; }
+            .hero .screenshot { max-width: 220px; }
+            .feature-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Hero -->
+    <section class="hero">
+        <h1>Ember<span>Eats</span></h1>
+        <p class="subtitle">150+ curated camping recipes organized by cooking method. Works offline. Like borrowing Grandad's camp cookbook.</p>
+        <a class="badge-link" href="https://apps.apple.com/app/embereats-camp-recipes/id6758902260">
+            <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store">
+        </a>
+        <br>
+        <img class="screenshot" src="screenshot.png" alt="EmberEats app showing camping recipes organized by cooking method">
+    </section>
+
+    <!-- Cooking Methods -->
+    <section class="methods">
+        <h2>Browse by How You Cook</h2>
+        <div class="chips">
+            <span class="chip">🔥 Campfire</span>
+            <span class="chip">🍳 Camp Stove</span>
+            <span class="chip">🫕 Dutch Oven</span>
+            <span class="chip">🫓 Foil Packets</span>
+            <span class="chip">🥗 No-Cook</span>
+        </div>
+    </section>
+
+    <!-- Features -->
+    <section class="features">
+        <h2>Built for the Campsite</h2>
+        <div class="feature-grid">
+            <div class="feature-card">
+                <div class="icon">📡</div>
+                <h3>Works Offline</h3>
+                <p>Every recipe is bundled in the app. No signal required — open it in airplane mode and cook.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">🔍</div>
+                <h3>Find Recipes Fast</h3>
+                <p>Filter by cooking method, meal type, or dietary need. Search when you know what you want.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">🏕️</div>
+                <h3>Trip Planner</h3>
+                <p>Add recipes to your trip list before you head out. Every meal covered, organized by type.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">👥</div>
+                <h3>Scale for Your Group</h3>
+                <p>Adjust servings with a tap. Ingredients scale automatically for 1 to 20 people.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">💡</div>
+                <h3>Campfire Pro Tips</h3>
+                <p>Every recipe includes a practical tip — the kind of wisdom you'd find scrawled in Grandad's notebook.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">🥬</div>
+                <h3>Dietary Filters</h3>
+                <p>Vegetarian, vegan, gluten-free, dairy-free, nut-free. Find what works for your crew.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta">
+        <h2>What should we cook at camp tonight?</h2>
+        <p>Free to start. 40+ recipes included. No subscriptions, no ads.</p>
+        <a class="badge-link" href="https://apps.apple.com/app/embereats-camp-recipes/id6758902260">
+            <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store">
+        </a>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div>
+            <a href="https://gfamlabs.com/embereats/privacy">Privacy Policy</a>
+            <a href="https://gfamlabs.com/embereats/terms">Terms of Use</a>
+            <a href="https://gfamlabs.com/embereats">Support</a>
+        </div>
+        <p class="copyright">&copy; 2026 GFam Labs. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

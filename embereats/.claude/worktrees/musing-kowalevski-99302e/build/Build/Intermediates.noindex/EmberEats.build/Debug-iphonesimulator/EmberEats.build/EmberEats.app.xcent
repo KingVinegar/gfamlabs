@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:build/EmberEats.build/Debug-iphonesimulator/EmberEats.build/assetcatalog_generated_info.plist
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+				<string>AppIcon76x76</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+=======
+	<key>com.apple.security.get-task-allow</key>
+	<true/>
+>>>>>>> Stashed changes:build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/EmberEats.app.xcent
+=======
+<<<<<<<< Updated upstream:build/Logs/Launch/LogStoreManifest.plist
+=======
+<<<<<<<< Updated upstream:build/Logs/Test/LogStoreManifest.plist
+>>>>>>> Stashed changes
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict/>
+========
+	<key>com.apple.security.get-task-allow</key>
+	<true/>
+>>>>>>>> Stashed changes:build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/EmberEats.app.xcent
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+</dict>
+</plist>

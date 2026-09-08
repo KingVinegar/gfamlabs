@@ -1,0 +1,109 @@
+{
+  "identifier" : "4B17F872-3020-4C42-8D04-D1E8B0A3B8A0",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "6.99",
+      "familyShareable" : false,
+      "internalID" : "E6A3D5C1-2F48-4B91-A4D3-8C6E9F1A2B3C",
+      "localizations" : [
+        {
+          "description" : "Unlock all 130+ recipes, Trip List planner, Shopping List, and all future recipe additions.",
+          "displayName" : "EmberEats Premium",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.gfamlabs.EmberEats.premium",
+      "referenceName" : "EmberEats Premium Unlock",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A1B2C3D4-1111-4A00-B111-111111111111",
+      "localizations" : [
+        {
+          "description" : "Ultralight camping recipes — minimal gear, maximum flavor.",
+          "displayName" : "Ultralight Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.gfamlabs.EmberEats.pack.ultralight",
+      "referenceName" : "Ultralight Recipe Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A1B2C3D4-2222-4A00-B222-222222222222",
+      "localizations" : [
+        {
+          "description" : "High-calorie bikepacking meals for the road.",
+          "displayName" : "Bikepacking Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.gfamlabs.EmberEats.pack.bikepacking",
+      "referenceName" : "Bikepacking Recipe Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A1B2C3D4-3333-4A00-B333-333333333333",
+      "localizations" : [
+        {
+          "description" : "Kid-approved meals the whole crew loves.",
+          "displayName" : "Family Camping",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.gfamlabs.EmberEats.pack.family",
+      "referenceName" : "Family Camping Recipe Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A1B2C3D4-4444-4A00-B444-444444444444",
+      "localizations" : [
+        {
+          "description" : "Hot, hearty meals for cold nights.",
+          "displayName" : "Winter Camping",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.gfamlabs.EmberEats.pack.winter",
+      "referenceName" : "Winter Camping Recipe Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A1B2C3D4-5555-4A00-B555-555555555555",
+      "localizations" : [
+        {
+          "description" : "Recipes ready in under 20 minutes.",
+          "displayName" : "Quick Meals",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.gfamlabs.EmberEats.pack.quickmeals",
+      "referenceName" : "Quick Meals Recipe Pack",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6745678901",
+    "_developerTeamID" : ""
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

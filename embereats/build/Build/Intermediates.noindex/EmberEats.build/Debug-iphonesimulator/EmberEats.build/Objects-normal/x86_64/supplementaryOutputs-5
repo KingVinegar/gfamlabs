@@ -1,0 +1,18 @@
+"/Users/stevegallo/Repos/EmberEats/EmberEats/OnboardingView.swift":
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.d"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.swiftconstvalues"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.swiftdeps"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.o"
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.dia"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/ContentView.swift":
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.dia"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.o"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.swiftconstvalues"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.d"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.swiftdeps"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/FavoritesView.swift":
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.dia"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.o"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.d"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.swiftconstvalues"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.swiftdeps"

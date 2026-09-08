@@ -1,0 +1,42 @@
+"/Users/stevegallo/Repos/EmberEats/EmberEats/NoCookRecipes.swift":
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.d"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.swiftconstvalues"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.swiftdeps"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.o"
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.dia"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/FavoritesView.swift":
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.swiftconstvalues"
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.dia"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.o"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.swiftdeps"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.d"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/Models.swift":
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.o"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.swiftconstvalues"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.swiftdeps"
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.dia"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.d"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/PacksView.swift":
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.dia"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.o"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.d"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.swiftconstvalues"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.swiftdeps"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/OnboardingView.swift":
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.dia"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.d"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.o"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.swiftdeps"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.swiftconstvalues"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/FoilPacketRecipes.swift":
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.swiftdeps"
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.swiftconstvalues"
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.dia"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.d"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.o"
+"/Users/stevegallo/Repos/EmberEats/EmberEats/PaywallView.swift":
+  const-values: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.swiftconstvalues"
+  dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.d"
+  swift-dependencies: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.swiftdeps"
+  diagnostics: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.dia"
+  object: "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.o"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:EmberEats.xcodeproj/xcuserdata/stevegallo.xcuserdatad/xcschemes/xcschememanagement.plist
+=======
+>>>>>>> Stashed changes
+	<key>SchemeUserState</key>
+	<dict>
+		<key>EmberEats.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+<<<<<<< Updated upstream
+========
+	<key>IDEDidComputeMac32BitWarning</key>
+	<true/>
+>>>>>>>> Stashed changes:EmberEats.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+=======
+>>>>>>> Stashed changes
+</dict>
+</plist>

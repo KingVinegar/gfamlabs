@@ -1,0 +1,23 @@
+{
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/PaywallView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.dia",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.swiftdeps"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/PremiumManager.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.dia",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.swiftdeps"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/RecipeData.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.dia",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.swiftdeps"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "" : {
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEats-primary.dia",
+    "emit-module-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEats-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEats-primary-emit-module.dia",
+    "pch" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEats-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEats-primary.swiftdeps"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/CampStoveRecipes.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampStoveRecipes.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampStoveRecipes.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampStoveRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampStoveRecipes.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampStoveRecipes.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampStoveRecipes.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampStoveRecipes.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampStoveRecipes~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/CampfireRecipes.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampfireRecipes.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampfireRecipes.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampfireRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampfireRecipes.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampfireRecipes.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampfireRecipes.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampfireRecipes.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/CampfireRecipes~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/ContentView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/DutchOvenRecipes.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/DutchOvenRecipes.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/DutchOvenRecipes.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/DutchOvenRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/DutchOvenRecipes.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/DutchOvenRecipes.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/DutchOvenRecipes.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/DutchOvenRecipes.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/DutchOvenRecipes~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/EmberEatsApp.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEatsApp.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEatsApp.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEatsApp.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEatsApp.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEatsApp.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEatsApp.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEatsApp.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/EmberEatsApp~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/ExploreView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ExploreView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ExploreView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ExploreView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ExploreView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ExploreView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ExploreView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ExploreView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ExploreView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/FavoritesManager.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesManager.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesManager.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesManager.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesManager.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesManager.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesManager.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesManager~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/FavoritesView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FavoritesView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/FoilPacketRecipes.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FoilPacketRecipes.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FoilPacketRecipes.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FoilPacketRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FoilPacketRecipes.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FoilPacketRecipes.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FoilPacketRecipes.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FoilPacketRecipes.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/FoilPacketRecipes~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/Models.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/NoCookRecipes.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/NoCookRecipes.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/NoCookRecipes.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/NoCookRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/NoCookRecipes.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/NoCookRecipes.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/NoCookRecipes.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/NoCookRecipes.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/NoCookRecipes~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/PacksView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PacksView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PacksView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PacksView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PacksView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PacksView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PacksView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PacksView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PacksView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/PaywallView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PaywallView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/PremiumManager.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/PremiumManager~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/RecipeData.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeData~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/RecipeDetailView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeDetailView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeDetailView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeDetailView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeDetailView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeDetailView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeDetailView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeDetailView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeDetailView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/RecipeListView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeListView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeListView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeListView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeListView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeListView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeListView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeListView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/RecipeListView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/SettingsView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/ShoppingListManager.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListManager.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListManager.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListManager.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListManager.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListManager.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListManager.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListManager~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/ShoppingListView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/ShoppingListView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/StoreKitManager.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/StoreKitManager.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/StoreKitManager.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/StoreKitManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/StoreKitManager.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/StoreKitManager.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/StoreKitManager.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/StoreKitManager.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/StoreKitManager~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/Theme.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/TripListManager.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListManager.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListManager.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListManager.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListManager.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListManager.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListManager.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListManager~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/EmberEats/TripListView.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListView.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListView.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListView.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListView.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListView.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListView.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/TripListView~partial.swiftmodule"
+  },
+  "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/Steve.Gallo/Repos/EmberEats/build/EmberEats.build/Debug-iphoneos/EmberEats.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

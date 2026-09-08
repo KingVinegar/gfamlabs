@@ -1,0 +1,268 @@
+{
+  "" : {
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEats-master.dia",
+    "emit-module-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEats-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEats-master-emit-module.dia",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEats-master.swiftdeps"
+  },
+  "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/CampfireRecipes.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampfireRecipes.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampfireRecipes.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampfireRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampfireRecipes.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampfireRecipes.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampfireRecipes.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampfireRecipes.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampfireRecipes~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/CampStoveRecipes.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampStoveRecipes.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampStoveRecipes.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampStoveRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampStoveRecipes.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampStoveRecipes.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampStoveRecipes.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampStoveRecipes.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/CampStoveRecipes~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/ContentView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/DutchOvenRecipes.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/DutchOvenRecipes.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/DutchOvenRecipes.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/DutchOvenRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/DutchOvenRecipes.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/DutchOvenRecipes.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/DutchOvenRecipes.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/DutchOvenRecipes.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/DutchOvenRecipes~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/EmberEatsApp.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEatsApp.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEatsApp.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEatsApp.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEatsApp.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEatsApp.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEatsApp.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEatsApp.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/EmberEatsApp~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/ExploreView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ExploreView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ExploreView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ExploreView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ExploreView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ExploreView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ExploreView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ExploreView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ExploreView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/FavoritesManager.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesManager.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesManager.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesManager.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesManager.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesManager.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesManager.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesManager~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/FavoritesView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FavoritesView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/FoilPacketRecipes.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/FoilPacketRecipes~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/Models.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Models~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/NoCookRecipes.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/NoCookRecipes~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/OnboardingView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/PacksView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PacksView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/PaywallView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PaywallView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/PremiumManager.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PremiumManager.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PremiumManager.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PremiumManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PremiumManager.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PremiumManager.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PremiumManager.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PremiumManager.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/PremiumManager~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/RecipeData.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeData.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeData.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeData.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeData.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeData.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeData.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeData.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeData~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/RecipeDetailView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeDetailView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/RecipeListView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeListView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeListView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeListView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeListView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeListView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeListView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeListView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/RecipeListView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/SettingsView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/SettingsView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/SettingsView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/SettingsView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/SettingsView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/SettingsView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/ShoppingListManager.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListManager.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListManager.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListManager.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListManager.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListManager.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListManager.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListManager~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/ShoppingListView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/ShoppingListView~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/StoreKitManager.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/StoreKitManager.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/StoreKitManager.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/StoreKitManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/StoreKitManager.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/StoreKitManager.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/StoreKitManager.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/StoreKitManager.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/StoreKitManager~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/Theme.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Theme.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Theme.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Theme.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Theme.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Theme.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/Theme~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/TripListManager.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListManager.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListManager.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListManager.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListManager.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListManager.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListManager.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListManager.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListManager~partial.swiftmodule"
+  },
+  "/Users/stevegallo/Repos/EmberEats/EmberEats/TripListView.swift" : {
+    "const-values" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListView.swiftconstvalues",
+    "dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListView.d",
+    "diagnostics" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListView.dia",
+    "index-unit-output-path" : "/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListView.o",
+    "llvm-bc" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListView.bc",
+    "object" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListView.o",
+    "swift-dependencies" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListView.swiftdeps",
+    "swiftmodule" : "/Users/stevegallo/Repos/EmberEats/build/Build/Intermediates.noindex/EmberEats.build/Debug-iphonesimulator/EmberEats.build/Objects-normal/x86_64/TripListView~partial.swiftmodule"
+  }
+}
