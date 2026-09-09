@@ -123,6 +123,7 @@ If revisited, measure actual image generation, moderation, support, and store-fe
 - `PORTFOLIO_MARKET_WORK_ORDER.md` — market-assessment work order.
 - `KITCHEN_COACH_PRODUCT_BRIEF.md` and `KITCHEN_COACH_WORK_ORDER.md` — approved discovery frame for the cooking vertical slice.
 - `SCHOOL_MAC_LOCAL_DEVELOPMENT_PROTOCOL.md` — detailed cross-project school-Mac operating boundary.
+- `.codex/config.toml` and `SCHOOL_MAC_SANDBOX_VERIFICATION.md` — checked-in least-privilege configuration and required Mac setup/verification. The configuration is enforced for sandboxed local commands only; it is not a substitute for macOS or school-managed controls.
 
 The current repository contains significant untracked project content. It belongs to the owner and is not automatically in scope. Do not clean up, stage, commit, delete, or restructure it without a specific owner request.
 

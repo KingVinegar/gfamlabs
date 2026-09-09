@@ -1,0 +1,49 @@
+# Kitchen Coach inherits the GFAM school-Mac least-privilege posture.
+# Keep this copy so the project remains protected when opened directly as a
+# standalone Codex workspace rather than from the repository root.
+
+default_permissions = "gfam-workspace-only"
+approval_policy = "on-request"
+allow_login_shell = false
+history.persistence = "none"
+
+[features]
+apps = false
+memories = false
+multi_agent = false
+remote_plugin = false
+skill_mcp_dependency_install = false
+
+[permissions.gfam-workspace-only]
+description = "Kitchen Coach editing only; no command network and no access beyond the active workspace."
+extends = ":workspace"
+
+[permissions.gfam-workspace-only.filesystem]
+":root" = "deny"
+":minimal" = "read"
+":tmpdir" = "deny"
+":slash_tmp" = "deny"
+
+[permissions.gfam-workspace-only.filesystem.":workspace_roots"]
+"." = "write"
+"**/*.env" = "deny"
+"**/*.pem" = "deny"
+"**/*.p12" = "deny"
+"**/*.mobileprovision" = "deny"
+
+[permissions.gfam-workspace-only.network]
+enabled = false
+
+[browser_use]
+allow_history_access = false
+disable_auto_review = true
+
+[browser_use.default_origin_policy]
+access = "deny"
+uploads = "deny"
+downloads = "deny"
+full_cdp_access = "deny"
+persistent_approval = false
+
+[computer_use]
+default_app_access = "deny"
